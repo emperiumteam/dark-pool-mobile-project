@@ -1,3 +1,25 @@
+/*Emperium Edit - Aug. 29-2018*/
+.desktop-version {
+    display: block;
+}
+
+.mobile-version {
+    display: none;
+}
+
+@media only screen and (max-width: 500px) {
+    .desktop-version {
+        display: none;
+    }
+
+    .mobile-version {
+        display: block;
+    }
+}
+/*Emperium Edit END - Aug. 29-2018*/
+
+
+
 /*button {
   overflow: none; }*/
 
