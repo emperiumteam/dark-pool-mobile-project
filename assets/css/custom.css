@@ -7,13 +7,17 @@
     display: none;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 450px) {
     .desktop-version {
         display: none;
     }
 
     .mobile-version {
         display: block;
+    }
+    
+    .video-wrap {
+        margin-bottom: -95px;
     }
 }
 /*Emperium Edit END - Aug. 29-2018*/
