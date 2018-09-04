@@ -1,29 +1,3 @@
-/*Emperium Edit - Aug. 29-2018*/
-.desktop-version {
-    display: block;
-}
-
-.mobile-version {
-    display: none;
-}
-
-@media only screen and (max-width: 450px) {
-    .desktop-version {
-        display: none;
-    }
-
-    .mobile-version {
-        display: block;
-    }
-    
-    .video-wrap {
-        margin-bottom: -95px;
-    }
-}
-/*Emperium Edit END - Aug. 29-2018*/
-
-
-
 /*button {
   overflow: none; }*/
 
@@ -670,7 +644,7 @@ article.u-block-hover span {
     }
 
     .home-graph-text {
-        padding-top: 100px;
+        padding-top: 78px;
     }
 
     .heading1-mobile {
@@ -694,7 +668,7 @@ article.u-block-hover span {
     }
 
     .home-form {
-/*        margin-top: -100px;*/
+        /*        margin-top: -100px;*/
     }
 
     .darkpool-btn {
@@ -1138,3 +1112,63 @@ b {
     border-radius: 4px;*/
     }
 }
+
+
+
+
+
+
+/*Emperium Edit - Aug. 29-2018*/
+
+.desktop-version {
+    display: block;
+}
+
+.mobile-version {
+    display: none;
+}
+
+@media only screen and (max-width: 450px) {
+    .desktop-version {
+        display: none;
+    }
+
+    .mobile-version {
+        display: block;
+    }
+
+    .video-wrap {
+        margin-bottom: -95px;
+    }
+
+    .home-stephanie {
+        margin-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+
+    .emperium-testimonial-container {
+        width: 100%;
+    }
+
+    .emperium-testimonial-description-container p {
+        font-size: 15px;
+    }
+
+    .emperium-testimonial-image-container img {
+        width: 160px;
+        height: auto;
+        margin-bottom: 10px;
+    }
+
+    .emperium-testimonial-description-container h2 {
+        font-size: 1.5em;
+    }
+
+    .emperium-testimonial-description-container h6 {
+        text-align: right;
+        margin-top: -20px;
+
+    }
+}
+
+/*Emperium Edit END - Aug. 29-2018*/
