@@ -1174,6 +1174,13 @@ b {
     .darkpool-btn2 {
         padding-left: 5% !important;
     }
+    
+    .darkpool-btn {
+        font-size: 10px !important;
+        text-align: center !important;
+        width: 90%;
+        margin: auto;
+    }
 
 }
 
