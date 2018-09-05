@@ -1165,10 +1165,16 @@ b {
     }
 
     .emperium-testimonial-description-container h6 {
-        text-align: right;
         margin-top: -15px;
+        font-size: 15px;
+        font-weight: 600;
 
     }
+
+    .darkpool-btn2 {
+        padding-left: 5% !important;
+    }
+
 }
 
 /*Emperium Edit END - Aug. 29-2018*/
